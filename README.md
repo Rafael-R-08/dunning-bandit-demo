@@ -18,7 +18,7 @@ pessoal, em escala reduzida, para:
 2. Comparar, de forma simples, uma política estática tipo "regra fixa"
    (comum na prática, segundo o próprio documento do projeto) com uma
    política adaptativa que aprende por contexto;
-3. Servir como ponto de partida de conversa técnica na candidatura/entrevista.
+3. Servir como ponto de partida de conversa técnica na candidatura.
 
 ## O que está implementado
 
